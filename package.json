@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SimonKannenberg/robot/issues"
   },
-  "homepage": "https://github.com/SimonKannenberg/robot#readme"
+  "homepage": "https://github.com/SimonKannenberg/robot#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
