@@ -13,6 +13,7 @@ O VGR apesar de ter base no video maker(Projeto original) tem diversas vantagens
 - Black List de links
 - Integridade com redes sociais
 - Opção de compartilhamento de video apos ser publicado
+
 # Ajude o robô
 O projeto envolve algumas bibliotecas, muitas gratuitas, porém infelizmente algumas são pagas e precisam ser mantidas mensalmente.
 O uso do robô é totalmente GRATUITO, mas para manter o projeto precisamos investir um pouco, sinta-se à vontade para nos apoiar doando qualquer valor:
